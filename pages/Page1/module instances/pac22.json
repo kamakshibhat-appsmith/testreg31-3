@@ -1,0 +1,21 @@
+{
+  "gitSyncId": "66ab375e485a96542550749a_25c87f81-0c59-4fd5-87d3-0929746b98b7",
+  "id": "Page1_pac22",
+  "moduleUUID": "71529cf6-3245-4fb1-9c6b-dda28deb42d2",
+  "packageUUID": "abefdbb9-d551-40f4-8558-b56cd91d0a5c",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "ewtpvdufvw": {},
+      "zxndaoxhej": {}
+    },
+    "name": "pac22",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}
